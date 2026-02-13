@@ -1,9 +1,5 @@
-Perfect 👌 Your repository Supply-Chain-and-Inventory-Dashboard looks clean.
-Now let’s create a professional README that recruiters will love.
 
-You can copy-paste this directly into your GitHub README.
-
-📦 Supply Chain & Inventory Dashboard
+#📦 Supply Chain & Inventory Dashboard
 📌 Project Overview
 
 This project presents an end-to-end Supply Chain and Inventory Analytics Dashboard built using Microsoft Excel and Power BI.
