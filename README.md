@@ -1,12 +1,11 @@
-
-##📦 Supply Chain & Inventory Dashboard
-📌 Project Overview
+#  📦 Supply Chain & Inventory Dashboard
+## 📌 Project Overview
 
 This project presents an end-to-end Supply Chain and Inventory Analytics Dashboard built using Microsoft Excel and Power BI.
 
 The dashboard provides actionable insights into:
 
-📊 Sales Performance
+## 📊 Sales Performance
 
 📦 Inventory Value
 
@@ -42,7 +41,7 @@ Supply-Chain-and-Inventory-Dashboard/
 ├── PPT/                  → Project Presentation
 └── README.md
 
-📊 Key KPIs Implemented
+## 📊 Key KPIs Implemented
 🔹 Sales KPIs
 
 Total Sales
@@ -65,7 +64,7 @@ Low Stock Alert
 
 Overstock Detection
 
-📈 Dashboard Highlights
+## 📈 Dashboard Highlights
 
 ✔ Interactive filters
 ✔ Store-level drill-down
@@ -115,21 +114,3 @@ Supply Chain Analytics
 Jay Sherekar
 Aspiring Data Analyst | Power BI | Excel | SQL
 
-🔥 OPTIONAL (If You Want It More Professional)
-
-You can add:
-
-Dashboard screenshots
-
-LinkedIn profile link
-
-Portfolio website link
-
-If you want, I can also:
-
-✅ Make it more ATS/recruiter focused
-✅ Make it shorter and more impactful
-✅ Make it more technical
-✅ Add dashboard screenshot markdown formatting
-
-Tell me which style you prefer.
