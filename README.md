@@ -1,5 +1,5 @@
 
-#📦 Supply Chain & Inventory Dashboard
+##📦 Supply Chain & Inventory Dashboard
 📌 Project Overview
 
 This project presents an end-to-end Supply Chain and Inventory Analytics Dashboard built using Microsoft Excel and Power BI.
